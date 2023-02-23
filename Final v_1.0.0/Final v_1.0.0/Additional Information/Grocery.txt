@@ -1,0 +1,18 @@
+
+                                                                    Range
+ ---------------------------------------------------------------------------
+|Milk (regular), (1 liter) 	  	                  0.93      0.55-1.25
+|Loaf of Fresh White Bread (500g) 	  	          0.98      0.52-2.00
+|Rice (white), (1kg) 	  	                          1.31      0.60-2.00
+|Eggs (regular) (12) 	  	                          1.94      1.00-3.00
+|Local Cheese (1kg) 	 	                          5.60      2.50-12.00
+|Chicken Fillets (1kg) 	 	                          5.41      3.00-8.00
+|Beef Round (1kg) (or Equivalent Back Leg Red Meat) 	  8.22	    4.00-13.50
+|Apples (1kg) 	 	                                  1.83      1.00-3.00
+|Banana (1kg) 	                                          1.07      0.73-2.40
+|Oranges (1kg) 	 	                                  1.71      0.90-3.50
+|Tomato (1kg) 	 	                                  1.91      0.85-3.78
+|Potato (1kg) 	 	                                  1.06      0.45-2.00
+|Onion (1kg) 	 	                                  0.96      0.55-2.00
+|Lettuce (1 head) 	  	                          0.70      0.43-1.00
+ ---------------------------------------------------------------------------

@@ -1,0 +1,6 @@
+﻿  Final v_1.0.0.cpp
+D:\Computing\Final Project Submissions\Final v_1.0.0\Final v_1.0.0\Final v_1.0.0.cpp(391,58): warning C4101: 'x': unreferenced local variable
+D:\Computing\Final Project Submissions\Final v_1.0.0\Final v_1.0.0\Final v_1.0.0.cpp(552,25): warning C4101: 'studygroup_n': unreferenced local variable
+D:\Computing\Final Project Submissions\Final v_1.0.0\Final v_1.0.0\Final v_1.0.0.cpp(665,9): warning C4551: function call missing argument list
+D:\Computing\Final Project Submissions\Final v_1.0.0\Final v_1.0.0\Final v_1.0.0.cpp(607,58): warning C4101: 'time': unreferenced local variable
+  Final v_1.0.0.vcxproj -> D:\Computing\Final Project Submissions\Final v_1.0.0\x64\Debug\Final v_1.0.0.exe
