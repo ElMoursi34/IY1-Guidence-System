@@ -1,4 +1,4 @@
-# International-Student-Guidance-System
+## International-Student-Guidance-System
 This project is a C++ program that provides guidance for new international students at the University of Huddersfield. The program includes options for students to choose from, such as what to do in the first week, information about the university, and information about the town. Additionally, there is a login system that allows students to sign in, sign up, and recover forgotten passwords.
 
 # Installation
@@ -14,9 +14,9 @@ To use the program, simply follow the on-screen instructions. The program will p
 # Contribution Guidelines
 If you would like to contribute to this project, we welcome your input. To contribute, please follow these guidelines:
 
-1- Fork the repository.
-2- Make your changes on a new branch.
-3- Create a pull request with your changes.
+1. Fork the repository.
+2. Make your changes on a new branch.
+3. Create a pull request with your changes.
 
 We ask that you include a detailed description of your changes and any relevant test cases in your pull request.
 
